@@ -13,16 +13,16 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  8,
-        "Pasta_Fotos":  "imagens/01 - Camisa UV50+ Personalizada",
+        "Pasta_Fotos":  "imagens/01_camisa_uv50_plus_personalizada",
         "Fotos_Locais":  [
-                             "imagens/01 - Camisa UV50+ Personalizada/foto_01.jpeg",
-                             "imagens/01 - Camisa UV50+ Personalizada/foto_02.jpeg",
-                             "imagens/01 - Camisa UV50+ Personalizada/foto_03.jpeg",
-                             "imagens/01 - Camisa UV50+ Personalizada/foto_04.jpeg",
-                             "imagens/01 - Camisa UV50+ Personalizada/foto_05.jpeg",
-                             "imagens/01 - Camisa UV50+ Personalizada/foto_06.jpeg",
-                             "imagens/01 - Camisa UV50+ Personalizada/foto_07.jpeg",
-                             "imagens/01 - Camisa UV50+ Personalizada/foto_08.jpeg"
+                             "imagens/01_camisa_uv50_plus_personalizada/foto_01.jpeg",
+                             "imagens/01_camisa_uv50_plus_personalizada/foto_02.jpeg",
+                             "imagens/01_camisa_uv50_plus_personalizada/foto_03.jpeg",
+                             "imagens/01_camisa_uv50_plus_personalizada/foto_04.jpeg",
+                             "imagens/01_camisa_uv50_plus_personalizada/foto_05.jpeg",
+                             "imagens/01_camisa_uv50_plus_personalizada/foto_06.jpeg",
+                             "imagens/01_camisa_uv50_plus_personalizada/foto_07.jpeg",
+                             "imagens/01_camisa_uv50_plus_personalizada/foto_08.jpeg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/96945674-aace-477d-9479-bac407b4d2b3-7-0.25104708341975546.jpeg",
         "Raw":  {
@@ -177,10 +177,10 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  2,
-        "Pasta_Fotos":  "imagens/02 - Espetos para churrasco Personalizados",
+        "Pasta_Fotos":  "imagens/02_espetos_para_churrasco_personalizados",
         "Fotos_Locais":  [
-                             "imagens/02 - Espetos para churrasco Personalizados/foto_01.jpeg",
-                             "imagens/02 - Espetos para churrasco Personalizados/foto_02.jpeg"
+                             "imagens/02_espetos_para_churrasco_personalizados/foto_01.jpeg",
+                             "imagens/02_espetos_para_churrasco_personalizados/foto_02.jpeg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/94b3d7a0-8b43-4f76-9ab3-23737cfa2160-0-0.4843651060134656.jpeg",
         "Raw":  {
@@ -275,10 +275,10 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  2,
-        "Pasta_Fotos":  "imagens/03 - Kit Chimarrão",
+        "Pasta_Fotos":  "imagens/03_kit_chimarrao",
         "Fotos_Locais":  [
-                             "imagens/03 - Kit Chimarrão/foto_01.jpg",
-                             "imagens/03 - Kit Chimarrão/foto_02.jpg"
+                             "imagens/03_kit_chimarrao/foto_01.jpg",
+                             "imagens/03_kit_chimarrao/foto_02.jpg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/86594e26-fe71-4e57-818b-581594dcc55a-1-0.8195602915433308.jpg",
         "Raw":  {
@@ -380,11 +380,11 @@
         "Condicao":  "novo",
         "Marca":  "Stanley",
         "Qtd_Fotos":  3,
-        "Pasta_Fotos":  "imagens/04 - Cantil De Bolso Flask Stanley 236ml",
+        "Pasta_Fotos":  "imagens/04_cantil_de_bolso_flask_stanley_236ml",
         "Fotos_Locais":  [
-                             "imagens/04 - Cantil De Bolso Flask Stanley 236ml/foto_01.jpg",
-                             "imagens/04 - Cantil De Bolso Flask Stanley 236ml/foto_02.png",
-                             "imagens/04 - Cantil De Bolso Flask Stanley 236ml/foto_03.png"
+                             "imagens/04_cantil_de_bolso_flask_stanley_236ml/foto_01.jpg",
+                             "imagens/04_cantil_de_bolso_flask_stanley_236ml/foto_02.png",
+                             "imagens/04_cantil_de_bolso_flask_stanley_236ml/foto_03.png"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/08dbe47a-f40a-40fd-bb26-720e02bb7340-0-0.8734912878441436.jpg",
         "Raw":  {
@@ -495,9 +495,9 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório/Ginete",
         "Qtd_Fotos":  1,
-        "Pasta_Fotos":  "imagens/05 - Faca 8_ aço inoxidável, com chaira e bainha de couro.",
+        "Pasta_Fotos":  "imagens/05_faca_8_aco_inoxidavel_com_chaira_e_bainha_de_couro",
         "Fotos_Locais":  [
-                             "imagens/05 - Faca 8_ aço inoxidável, com chaira e bainha de couro./foto_01.png"
+                             "imagens/05_faca_8_aco_inoxidavel_com_chaira_e_bainha_de_couro/foto_01.png"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/d40ddd84-8b04-487a-b282-83ac2c652723-0-0.6415571721113558.png",
         "Raw":  {
@@ -582,12 +582,12 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  4,
-        "Pasta_Fotos":  "imagens/06 - Fivela Pioneer",
+        "Pasta_Fotos":  "imagens/06_fivela_pioneer",
         "Fotos_Locais":  [
-                             "imagens/06 - Fivela Pioneer/foto_01.jpg",
-                             "imagens/06 - Fivela Pioneer/foto_02.jpg",
-                             "imagens/06 - Fivela Pioneer/foto_03.jpg",
-                             "imagens/06 - Fivela Pioneer/foto_04.jpg"
+                             "imagens/06_fivela_pioneer/foto_01.jpg",
+                             "imagens/06_fivela_pioneer/foto_02.jpg",
+                             "imagens/06_fivela_pioneer/foto_03.jpg",
+                             "imagens/06_fivela_pioneer/foto_04.jpg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/eb71285f-792d-4785-b9d3-82965fa2a143-2-0.7013500442882816.jpg",
         "Raw":  {
@@ -702,10 +702,10 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  2,
-        "Pasta_Fotos":  "imagens/07 - Kit Social Import",
+        "Pasta_Fotos":  "imagens/07_kit_social_import",
         "Fotos_Locais":  [
-                             "imagens/07 - Kit Social Import/foto_01.jpg",
-                             "imagens/07 - Kit Social Import/foto_02.jpg"
+                             "imagens/07_kit_social_import/foto_01.jpg",
+                             "imagens/07_kit_social_import/foto_02.jpg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/e4d85e31-7cd9-4aae-8d8e-83b9fc4394af-1-0.2863158924234268.jpg",
         "Raw":  {
@@ -800,9 +800,9 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório/Ginete",
         "Qtd_Fotos":  1,
-        "Pasta_Fotos":  "imagens/08 - Faca trio 9_, com chaira e bainha de couro.",
+        "Pasta_Fotos":  "imagens/08_faca_trio_9_com_chaira_e_bainha_de_couro",
         "Fotos_Locais":  [
-                             "imagens/08 - Faca trio 9_, com chaira e bainha de couro./foto_01.png"
+                             "imagens/08_faca_trio_9_com_chaira_e_bainha_de_couro/foto_01.png"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/a699dbea-ead8-44ec-b05c-cc6875a153d5-0-0.9491909793246694.png",
         "Raw":  {
@@ -887,9 +887,9 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  1,
-        "Pasta_Fotos":  "imagens/09 - Chaveiro Nelore",
+        "Pasta_Fotos":  "imagens/09_chaveiro_nelore",
         "Fotos_Locais":  [
-                             "imagens/09 - Chaveiro Nelore/foto_01.jpg"
+                             "imagens/09_chaveiro_nelore/foto_01.jpg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/product/d067d5fa-8c5a-47cf-8ad9-86649aad37f5/product-27bdb187-a911-4fb5-b22c-4b8f81f84749-1782393737596-8imuaub29.jpg",
         "Raw":  {
@@ -980,16 +980,16 @@
         "Condicao":  "novo",
         "Marca":  null,
         "Qtd_Fotos":  8,
-        "Pasta_Fotos":  "imagens/10 - Kit tereré",
+        "Pasta_Fotos":  "imagens/10_kit_terere",
         "Fotos_Locais":  [
-                             "imagens/10 - Kit tereré/foto_01.jpeg",
-                             "imagens/10 - Kit tereré/foto_02.jpeg",
-                             "imagens/10 - Kit tereré/foto_03.jpeg",
-                             "imagens/10 - Kit tereré/foto_04.jpeg",
-                             "imagens/10 - Kit tereré/foto_05.jpeg",
-                             "imagens/10 - Kit tereré/foto_06.jpeg",
-                             "imagens/10 - Kit tereré/foto_07.jpeg",
-                             "imagens/10 - Kit tereré/foto_08.jpeg"
+                             "imagens/10_kit_terere/foto_01.jpeg",
+                             "imagens/10_kit_terere/foto_02.jpeg",
+                             "imagens/10_kit_terere/foto_03.jpeg",
+                             "imagens/10_kit_terere/foto_04.jpeg",
+                             "imagens/10_kit_terere/foto_05.jpeg",
+                             "imagens/10_kit_terere/foto_06.jpeg",
+                             "imagens/10_kit_terere/foto_07.jpeg",
+                             "imagens/10_kit_terere/foto_08.jpeg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/6f68b0c7-dfe4-4a61-b7b3-42c57e2dc5ce-4-0.9399123038564862.jpeg",
         "Raw":  {
@@ -1145,9 +1145,9 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório/Ginete",
         "Qtd_Fotos":  1,
-        "Pasta_Fotos":  "imagens/11 - Faca 6_ aço inoxidável, com chaira e bainha de couro.",
+        "Pasta_Fotos":  "imagens/11_faca_6_aco_inoxidavel_com_chaira_e_bainha_de_couro",
         "Fotos_Locais":  [
-                             "imagens/11 - Faca 6_ aço inoxidável, com chaira e bainha de couro./foto_01.png"
+                             "imagens/11_faca_6_aco_inoxidavel_com_chaira_e_bainha_de_couro/foto_01.png"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/5a678496-3dea-4454-ac4b-abbafcdce311-0-0.6441950422370407.png",
         "Raw":  {
@@ -1232,9 +1232,9 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório/Ginete",
         "Qtd_Fotos":  1,
-        "Pasta_Fotos":  "imagens/12 - Faca curva 6_, bainha de couro.",
+        "Pasta_Fotos":  "imagens/12_faca_curva_6_bainha_de_couro",
         "Fotos_Locais":  [
-                             "imagens/12 - Faca curva 6_, bainha de couro./foto_01.png"
+                             "imagens/12_faca_curva_6_bainha_de_couro/foto_01.png"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/d8661021-4fb5-4791-bcd1-9d7468f6e909-0-0.3122963433719479.png",
         "Raw":  {
@@ -1319,9 +1319,9 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório/Ginete",
         "Qtd_Fotos":  1,
-        "Pasta_Fotos":  "imagens/13 - Faca 8_ aço inoxidável, com chaira e bainha de couro.",
+        "Pasta_Fotos":  "imagens/13_faca_8_aco_inoxidavel_com_chaira_e_bainha_de_couro",
         "Fotos_Locais":  [
-                             "imagens/13 - Faca 8_ aço inoxidável, com chaira e bainha de couro./foto_01.png"
+                             "imagens/13_faca_8_aco_inoxidavel_com_chaira_e_bainha_de_couro/foto_01.png"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/3e8cc578-1ea0-4d2e-b082-ab58679ea9e6-0-0.7424658646820145.png",
         "Raw":  {
@@ -1406,9 +1406,9 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório/Ginete",
         "Qtd_Fotos":  1,
-        "Pasta_Fotos":  "imagens/14 - Faca 8_ aço inoxidável, com chaira e bainha de couro.",
+        "Pasta_Fotos":  "imagens/14_faca_8_aco_inoxidavel_com_chaira_e_bainha_de_couro",
         "Fotos_Locais":  [
-                             "imagens/14 - Faca 8_ aço inoxidável, com chaira e bainha de couro./foto_01.png"
+                             "imagens/14_faca_8_aco_inoxidavel_com_chaira_e_bainha_de_couro/foto_01.png"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/e51e4f28-d399-4665-a843-b48147a507a2-0-0.7061821665104508.png",
         "Raw":  {
@@ -1493,12 +1493,12 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  4,
-        "Pasta_Fotos":  "imagens/15 - Copo porta longneck",
+        "Pasta_Fotos":  "imagens/15_copo_porta_longneck",
         "Fotos_Locais":  [
-                             "imagens/15 - Copo porta longneck/foto_01.jpeg",
-                             "imagens/15 - Copo porta longneck/foto_02.jpg",
-                             "imagens/15 - Copo porta longneck/foto_03.jpeg",
-                             "imagens/15 - Copo porta longneck/foto_04.jpeg"
+                             "imagens/15_copo_porta_longneck/foto_01.jpeg",
+                             "imagens/15_copo_porta_longneck/foto_02.jpg",
+                             "imagens/15_copo_porta_longneck/foto_03.jpeg",
+                             "imagens/15_copo_porta_longneck/foto_04.jpeg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/4db89d77-d82a-4fa4-a05b-ba0837393fe2-3-0.01902008998017013.jpeg",
         "Raw":  {
@@ -1613,9 +1613,9 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  1,
-        "Pasta_Fotos":  "imagens/16 - Chaveiro ecológico",
+        "Pasta_Fotos":  "imagens/16_chaveiro_ecologico",
         "Fotos_Locais":  [
-                             "imagens/16 - Chaveiro ecológico/foto_01.jpeg"
+                             "imagens/16_chaveiro_ecologico/foto_01.jpeg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/8b5dedbe-0969-4489-8dc1-5909a9a3002a-0-0.1572563185764515.jpeg",
         "Raw":  {
@@ -1700,11 +1700,11 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  3,
-        "Pasta_Fotos":  "imagens/17 - Kit Chimarrão",
+        "Pasta_Fotos":  "imagens/17_kit_chimarrao",
         "Fotos_Locais":  [
-                             "imagens/17 - Kit Chimarrão/foto_01.jpeg",
-                             "imagens/17 - Kit Chimarrão/foto_02.jpeg",
-                             "imagens/17 - Kit Chimarrão/foto_03.jpeg"
+                             "imagens/17_kit_chimarrao/foto_01.jpeg",
+                             "imagens/17_kit_chimarrao/foto_02.jpeg",
+                             "imagens/17_kit_chimarrao/foto_03.jpeg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/ca6c9d8f-b388-4e5c-820e-e0a058731941-0-0.8013679360234214.jpeg",
         "Raw":  {
@@ -1810,13 +1810,13 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  5,
-        "Pasta_Fotos":  "imagens/18 - Boné Trucker personalizado",
+        "Pasta_Fotos":  "imagens/18_bone_trucker_personalizado",
         "Fotos_Locais":  [
-                             "imagens/18 - Boné Trucker personalizado/foto_01.jpeg",
-                             "imagens/18 - Boné Trucker personalizado/foto_02.jpg",
-                             "imagens/18 - Boné Trucker personalizado/foto_03.jpeg",
-                             "imagens/18 - Boné Trucker personalizado/foto_04.jpg",
-                             "imagens/18 - Boné Trucker personalizado/foto_05.jpg"
+                             "imagens/18_bone_trucker_personalizado/foto_01.jpeg",
+                             "imagens/18_bone_trucker_personalizado/foto_02.jpg",
+                             "imagens/18_bone_trucker_personalizado/foto_03.jpeg",
+                             "imagens/18_bone_trucker_personalizado/foto_04.jpg",
+                             "imagens/18_bone_trucker_personalizado/foto_05.jpg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/a3285850-2681-4d6a-af00-bdcffb8cbd9d-0-0.10600405551355663.jpeg",
         "Raw":  {
@@ -1941,9 +1941,9 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório/Ginete",
         "Qtd_Fotos":  1,
-        "Pasta_Fotos":  "imagens/19 - Faca 8_ aço inoxidável, com chaira e bainha de couro",
+        "Pasta_Fotos":  "imagens/19_faca_8_aco_inoxidavel_com_chaira_e_bainha_de_couro",
         "Fotos_Locais":  [
-                             "imagens/19 - Faca 8_ aço inoxidável, com chaira e bainha de couro/foto_01.png"
+                             "imagens/19_faca_8_aco_inoxidavel_com_chaira_e_bainha_de_couro/foto_01.png"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/a0f149df-f2b5-404b-9398-59a4c893c329-0-0.17942477948025515.png",
         "Raw":  {
@@ -2028,9 +2028,9 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório/Ginete",
         "Qtd_Fotos":  1,
-        "Pasta_Fotos":  "imagens/20 - Faca 8_ aço inoxidável, com chaira e bainha de couro.",
+        "Pasta_Fotos":  "imagens/20_faca_8_aco_inoxidavel_com_chaira_e_bainha_de_couro",
         "Fotos_Locais":  [
-                             "imagens/20 - Faca 8_ aço inoxidável, com chaira e bainha de couro./foto_01.png"
+                             "imagens/20_faca_8_aco_inoxidavel_com_chaira_e_bainha_de_couro/foto_01.png"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/dab07e8b-ef05-40d0-bfa8-6089f972d8b8-0-0.4075234116431611.png",
         "Raw":  {
@@ -2115,9 +2115,9 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório/Ginete",
         "Qtd_Fotos":  1,
-        "Pasta_Fotos":  "imagens/21 - Faca 8_ aço inoxidável, com chaira e bainha de couro.",
+        "Pasta_Fotos":  "imagens/21_faca_8_aco_inoxidavel_com_chaira_e_bainha_de_couro",
         "Fotos_Locais":  [
-                             "imagens/21 - Faca 8_ aço inoxidável, com chaira e bainha de couro./foto_01.png"
+                             "imagens/21_faca_8_aco_inoxidavel_com_chaira_e_bainha_de_couro/foto_01.png"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/ab55de22-9f4b-4af2-aae4-17cc768aa75d-0-0.6084006129159564.png",
         "Raw":  {
@@ -2202,9 +2202,9 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório/Ginete",
         "Qtd_Fotos":  1,
-        "Pasta_Fotos":  "imagens/22 - Faca 8_ aço inoxidável, com chaira e bainha de couro.",
+        "Pasta_Fotos":  "imagens/22_faca_8_aco_inoxidavel_com_chaira_e_bainha_de_couro",
         "Fotos_Locais":  [
-                             "imagens/22 - Faca 8_ aço inoxidável, com chaira e bainha de couro./foto_01.png"
+                             "imagens/22_faca_8_aco_inoxidavel_com_chaira_e_bainha_de_couro/foto_01.png"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/3f3e8e04-83ad-490d-bf17-fe0bd362c26a-0-0.913674946346407.png",
         "Raw":  {
@@ -2289,13 +2289,13 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório/Ginete",
         "Qtd_Fotos":  5,
-        "Pasta_Fotos":  "imagens/23 - Camisas Hard Adventure Proteção UV50+",
+        "Pasta_Fotos":  "imagens/23_camisas_hard_adventure_protecao_uv50_plus",
         "Fotos_Locais":  [
-                             "imagens/23 - Camisas Hard Adventure Proteção UV50+/foto_01.jpg",
-                             "imagens/23 - Camisas Hard Adventure Proteção UV50+/foto_02.jpg",
-                             "imagens/23 - Camisas Hard Adventure Proteção UV50+/foto_03.jpg",
-                             "imagens/23 - Camisas Hard Adventure Proteção UV50+/foto_04.jpg",
-                             "imagens/23 - Camisas Hard Adventure Proteção UV50+/foto_05.jpg"
+                             "imagens/23_camisas_hard_adventure_protecao_uv50_plus/foto_01.jpg",
+                             "imagens/23_camisas_hard_adventure_protecao_uv50_plus/foto_02.jpg",
+                             "imagens/23_camisas_hard_adventure_protecao_uv50_plus/foto_03.jpg",
+                             "imagens/23_camisas_hard_adventure_protecao_uv50_plus/foto_04.jpg",
+                             "imagens/23_camisas_hard_adventure_protecao_uv50_plus/foto_05.jpg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/e54f6a1f-a72a-40e8-b649-63ac5890847e-0-0.13683914716909507.jpg",
         "Raw":  {
@@ -2420,9 +2420,9 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório/Ginete",
         "Qtd_Fotos":  1,
-        "Pasta_Fotos":  "imagens/24 - Faca 8_ aço inoxidável, com chaira e bainha de couro.",
+        "Pasta_Fotos":  "imagens/24_faca_8_aco_inoxidavel_com_chaira_e_bainha_de_couro",
         "Fotos_Locais":  [
-                             "imagens/24 - Faca 8_ aço inoxidável, com chaira e bainha de couro./foto_01.png"
+                             "imagens/24_faca_8_aco_inoxidavel_com_chaira_e_bainha_de_couro/foto_01.png"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/c82d4ed4-ba84-4984-86f3-41ff64415693-0-0.25700864615341745.png",
         "Raw":  {
@@ -2507,9 +2507,9 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório/Ginete",
         "Qtd_Fotos":  1,
-        "Pasta_Fotos":  "imagens/25 - Faca 9_ aço inoxidável, com chaira e bainha de couro.",
+        "Pasta_Fotos":  "imagens/25_faca_9_aco_inoxidavel_com_chaira_e_bainha_de_couro",
         "Fotos_Locais":  [
-                             "imagens/25 - Faca 9_ aço inoxidável, com chaira e bainha de couro./foto_01.png"
+                             "imagens/25_faca_9_aco_inoxidavel_com_chaira_e_bainha_de_couro/foto_01.png"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/9b3ebd86-4e89-4652-bfd5-ff8fbe1bb9fb-0-0.7403664501285185.png",
         "Raw":  {
@@ -2594,9 +2594,9 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório/Ginete",
         "Qtd_Fotos":  1,
-        "Pasta_Fotos":  "imagens/26 - Faca trio 9_, com chaira e bainha de couro.",
+        "Pasta_Fotos":  "imagens/26_faca_trio_9_com_chaira_e_bainha_de_couro",
         "Fotos_Locais":  [
-                             "imagens/26 - Faca trio 9_, com chaira e bainha de couro./foto_01.png"
+                             "imagens/26_faca_trio_9_com_chaira_e_bainha_de_couro/foto_01.png"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/77d00eef-6673-497b-bf98-6897ec94a00f-0-0.4605692847089883.png",
         "Raw":  {
@@ -2681,9 +2681,9 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório/Ginete",
         "Qtd_Fotos":  1,
-        "Pasta_Fotos":  "imagens/27 - Faca trio 9_, com chaira e bainha de couro.",
+        "Pasta_Fotos":  "imagens/27_faca_trio_9_com_chaira_e_bainha_de_couro",
         "Fotos_Locais":  [
-                             "imagens/27 - Faca trio 9_, com chaira e bainha de couro./foto_01.png"
+                             "imagens/27_faca_trio_9_com_chaira_e_bainha_de_couro/foto_01.png"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/f5242e4e-8ae8-45e3-9016-a4c1fdc8621c-0-0.3660009008209999.png",
         "Raw":  {
@@ -2768,9 +2768,9 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório/Ginete",
         "Qtd_Fotos":  1,
-        "Pasta_Fotos":  "imagens/28 - Faca trio 9_, com chaira e bainha de couro.",
+        "Pasta_Fotos":  "imagens/28_faca_trio_9_com_chaira_e_bainha_de_couro",
         "Fotos_Locais":  [
-                             "imagens/28 - Faca trio 9_, com chaira e bainha de couro./foto_01.png"
+                             "imagens/28_faca_trio_9_com_chaira_e_bainha_de_couro/foto_01.png"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/bbe5a556-8adb-4a95-99f4-dcff6f20785b-0-0.5349562039852753.png",
         "Raw":  {
@@ -2855,9 +2855,9 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório/Ginete",
         "Qtd_Fotos":  1,
-        "Pasta_Fotos":  "imagens/29 - Faca trio 9_, com chaira e bainha de couro.",
+        "Pasta_Fotos":  "imagens/29_faca_trio_9_com_chaira_e_bainha_de_couro",
         "Fotos_Locais":  [
-                             "imagens/29 - Faca trio 9_, com chaira e bainha de couro./foto_01.png"
+                             "imagens/29_faca_trio_9_com_chaira_e_bainha_de_couro/foto_01.png"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/df30e2de-bc66-4c46-b740-1b4cd717169a-0-0.12511052167782777.png",
         "Raw":  {
@@ -2942,9 +2942,9 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório/Ginete",
         "Qtd_Fotos":  1,
-        "Pasta_Fotos":  "imagens/30 - Faca curva 6_, bainha de couro.",
+        "Pasta_Fotos":  "imagens/30_faca_curva_6_bainha_de_couro",
         "Fotos_Locais":  [
-                             "imagens/30 - Faca curva 6_, bainha de couro./foto_01.png"
+                             "imagens/30_faca_curva_6_bainha_de_couro/foto_01.png"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/8460b56c-554f-4aff-a567-96575a791977-0-0.9563679680614582.png",
         "Raw":  {
@@ -3029,9 +3029,9 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório/Ginete",
         "Qtd_Fotos":  1,
-        "Pasta_Fotos":  "imagens/31 - Canivete aço inox",
+        "Pasta_Fotos":  "imagens/31_canivete_aco_inox",
         "Fotos_Locais":  [
-                             "imagens/31 - Canivete aço inox/foto_01.png"
+                             "imagens/31_canivete_aco_inox/foto_01.png"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/7f11183e-9691-4af4-81ca-75b13521d4c7-0-0.2121650091305376.png",
         "Raw":  {
@@ -3116,9 +3116,9 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório/Ginete",
         "Qtd_Fotos":  1,
-        "Pasta_Fotos":  "imagens/32 - Canivete aço inox",
+        "Pasta_Fotos":  "imagens/32_canivete_aco_inox",
         "Fotos_Locais":  [
-                             "imagens/32 - Canivete aço inox/foto_01.png"
+                             "imagens/32_canivete_aco_inox/foto_01.png"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/4369d71e-e7db-4e54-a4be-d94002789a55-0-0.5880037180091486.png",
         "Raw":  {
@@ -3203,13 +3203,13 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  5,
-        "Pasta_Fotos":  "imagens/33 - Kit Pizza",
+        "Pasta_Fotos":  "imagens/33_kit_pizza",
         "Fotos_Locais":  [
-                             "imagens/33 - Kit Pizza/foto_01.jpeg",
-                             "imagens/33 - Kit Pizza/foto_02.jpeg",
-                             "imagens/33 - Kit Pizza/foto_03.jpeg",
-                             "imagens/33 - Kit Pizza/foto_04.jpeg",
-                             "imagens/33 - Kit Pizza/foto_05.jpeg"
+                             "imagens/33_kit_pizza/foto_01.jpeg",
+                             "imagens/33_kit_pizza/foto_02.jpeg",
+                             "imagens/33_kit_pizza/foto_03.jpeg",
+                             "imagens/33_kit_pizza/foto_04.jpeg",
+                             "imagens/33_kit_pizza/foto_05.jpeg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/f62a958b-326a-4e88-9716-5d1a9579bbf6-3-0.8676054694848839.jpeg",
         "Raw":  {
@@ -3334,10 +3334,10 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  2,
-        "Pasta_Fotos":  "imagens/34 - Kit Social Agrônomo 01",
+        "Pasta_Fotos":  "imagens/34_kit_social_agronomo_01",
         "Fotos_Locais":  [
-                             "imagens/34 - Kit Social Agrônomo 01/foto_01.jpeg",
-                             "imagens/34 - Kit Social Agrônomo 01/foto_02.jpeg"
+                             "imagens/34_kit_social_agronomo_01/foto_01.jpeg",
+                             "imagens/34_kit_social_agronomo_01/foto_02.jpeg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/3f49a3cf-6dc9-4fa9-b6ef-9c4f42cccb3d-0-0.4392329392581167.jpeg",
         "Raw":  {
@@ -3432,12 +3432,12 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  4,
-        "Pasta_Fotos":  "imagens/35 - Kit Vinho",
+        "Pasta_Fotos":  "imagens/35_kit_vinho",
         "Fotos_Locais":  [
-                             "imagens/35 - Kit Vinho/foto_01.jpg",
-                             "imagens/35 - Kit Vinho/foto_02.jpg",
-                             "imagens/35 - Kit Vinho/foto_03.jpg",
-                             "imagens/35 - Kit Vinho/foto_04.jpg"
+                             "imagens/35_kit_vinho/foto_01.jpg",
+                             "imagens/35_kit_vinho/foto_02.jpg",
+                             "imagens/35_kit_vinho/foto_03.jpg",
+                             "imagens/35_kit_vinho/foto_04.jpg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/product/d067d5fa-8c5a-47cf-8ad9-86649aad37f5/product-27f63540-b513-4cee-a164-1507cc2d12bd-1782394450220-2ypb0f6kp.jpg",
         "Raw":  {
@@ -3558,10 +3558,10 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  2,
-        "Pasta_Fotos":  "imagens/36 - Sacola de Algodão Cru",
+        "Pasta_Fotos":  "imagens/36_sacola_de_algodao_cru",
         "Fotos_Locais":  [
-                             "imagens/36 - Sacola de Algodão Cru/foto_01.jpeg",
-                             "imagens/36 - Sacola de Algodão Cru/foto_02.jpeg"
+                             "imagens/36_sacola_de_algodao_cru/foto_01.jpeg",
+                             "imagens/36_sacola_de_algodao_cru/foto_02.jpeg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/c8fb249d-d97c-405f-ba01-caac25fe519f-0-0.10121301724269116.jpeg",
         "Raw":  {
@@ -3656,12 +3656,12 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  4,
-        "Pasta_Fotos":  "imagens/37 - Nécessaire de couro",
+        "Pasta_Fotos":  "imagens/37_necessaire_de_couro",
         "Fotos_Locais":  [
-                             "imagens/37 - Nécessaire de couro/foto_01.jpg",
-                             "imagens/37 - Nécessaire de couro/foto_02.jpg",
-                             "imagens/37 - Nécessaire de couro/foto_03.jpeg",
-                             "imagens/37 - Nécessaire de couro/foto_04.jpg"
+                             "imagens/37_necessaire_de_couro/foto_01.jpg",
+                             "imagens/37_necessaire_de_couro/foto_02.jpg",
+                             "imagens/37_necessaire_de_couro/foto_03.jpeg",
+                             "imagens/37_necessaire_de_couro/foto_04.jpg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/63d4a442-45b2-4f49-b7cc-b9f66668dfd1-1-0.9630819990422272.jpeg",
         "Raw":  {
@@ -3782,11 +3782,11 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  3,
-        "Pasta_Fotos":  "imagens/38 - Kit temperos",
+        "Pasta_Fotos":  "imagens/38_kit_temperos",
         "Fotos_Locais":  [
-                             "imagens/38 - Kit temperos/foto_01.jpg",
-                             "imagens/38 - Kit temperos/foto_02.jpg",
-                             "imagens/38 - Kit temperos/foto_03.jpeg"
+                             "imagens/38_kit_temperos/foto_01.jpg",
+                             "imagens/38_kit_temperos/foto_02.jpg",
+                             "imagens/38_kit_temperos/foto_03.jpeg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/86d40c4c-f687-4d5f-b003-df06d92a4a3f-0-0.2652683982379642.jpg",
         "Raw":  {
@@ -3896,9 +3896,9 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  1,
-        "Pasta_Fotos":  "imagens/39 - Chaveiro inox",
+        "Pasta_Fotos":  "imagens/39_chaveiro_inox",
         "Fotos_Locais":  [
-                             "imagens/39 - Chaveiro inox/foto_01.jpeg"
+                             "imagens/39_chaveiro_inox/foto_01.jpeg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/5b1e6dc3-cf1b-4db6-99db-f7a8b1a9f9ec-0-0.7217308598953298.jpeg",
         "Raw":  {
@@ -3983,10 +3983,10 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  2,
-        "Pasta_Fotos":  "imagens/40 - Kit Vinho",
+        "Pasta_Fotos":  "imagens/40_kit_vinho",
         "Fotos_Locais":  [
-                             "imagens/40 - Kit Vinho/foto_01.jpg",
-                             "imagens/40 - Kit Vinho/foto_02.jpeg"
+                             "imagens/40_kit_vinho/foto_01.jpg",
+                             "imagens/40_kit_vinho/foto_02.jpeg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/9f6d82ee-44a9-4263-ad65-d2c3b9d17ebc-1-0.5588528386131362.jpg",
         "Raw":  {
@@ -4081,9 +4081,9 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  1,
-        "Pasta_Fotos":  "imagens/41 - Porta Jóias",
+        "Pasta_Fotos":  "imagens/41_porta_joias",
         "Fotos_Locais":  [
-                             "imagens/41 - Porta Jóias/foto_01.jpg"
+                             "imagens/41_porta_joias/foto_01.jpg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/f67213a7-bba5-47ce-b8fa-e5dedad322ab-0-0.780622300185843.jpg",
         "Raw":  {
@@ -4168,11 +4168,11 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  3,
-        "Pasta_Fotos":  "imagens/42 - Lupa",
+        "Pasta_Fotos":  "imagens/42_lupa",
         "Fotos_Locais":  [
-                             "imagens/42 - Lupa/foto_01.jpg",
-                             "imagens/42 - Lupa/foto_02.jpg",
-                             "imagens/42 - Lupa/foto_03.jpg"
+                             "imagens/42_lupa/foto_01.jpg",
+                             "imagens/42_lupa/foto_02.jpg",
+                             "imagens/42_lupa/foto_03.jpg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/product/d067d5fa-8c5a-47cf-8ad9-86649aad37f5/product-231c1b0b-7b6f-4b2e-a839-eb11eb83805d-1782148626997-2eobwv5t3.jpg",
         "Raw":  {
@@ -4283,10 +4283,10 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  2,
-        "Pasta_Fotos":  "imagens/43 - Abridor de garrafas .50",
+        "Pasta_Fotos":  "imagens/43_abridor_de_garrafas_50",
         "Fotos_Locais":  [
-                             "imagens/43 - Abridor de garrafas .50/foto_01.jpeg",
-                             "imagens/43 - Abridor de garrafas .50/foto_02.jpg"
+                             "imagens/43_abridor_de_garrafas_50/foto_01.jpeg",
+                             "imagens/43_abridor_de_garrafas_50/foto_02.jpg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/7e602e7d-97d2-4cf1-9c93-cef5398d72dc-0-0.26456841961113853.jpeg",
         "Raw":  {
@@ -4381,17 +4381,17 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  9,
-        "Pasta_Fotos":  "imagens/44 - Canetas personalizadas",
+        "Pasta_Fotos":  "imagens/44_canetas_personalizadas",
         "Fotos_Locais":  [
-                             "imagens/44 - Canetas personalizadas/foto_01.jpeg",
-                             "imagens/44 - Canetas personalizadas/foto_02.jpeg",
-                             "imagens/44 - Canetas personalizadas/foto_03.jpeg",
-                             "imagens/44 - Canetas personalizadas/foto_04.jpeg",
-                             "imagens/44 - Canetas personalizadas/foto_05.jpeg",
-                             "imagens/44 - Canetas personalizadas/foto_06.jpeg",
-                             "imagens/44 - Canetas personalizadas/foto_07.jpeg",
-                             "imagens/44 - Canetas personalizadas/foto_08.jpeg",
-                             "imagens/44 - Canetas personalizadas/foto_09.jpeg"
+                             "imagens/44_canetas_personalizadas/foto_01.jpeg",
+                             "imagens/44_canetas_personalizadas/foto_02.jpeg",
+                             "imagens/44_canetas_personalizadas/foto_03.jpeg",
+                             "imagens/44_canetas_personalizadas/foto_04.jpeg",
+                             "imagens/44_canetas_personalizadas/foto_05.jpeg",
+                             "imagens/44_canetas_personalizadas/foto_06.jpeg",
+                             "imagens/44_canetas_personalizadas/foto_07.jpeg",
+                             "imagens/44_canetas_personalizadas/foto_08.jpeg",
+                             "imagens/44_canetas_personalizadas/foto_09.jpeg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/f7e8a3db-297b-44ff-8e95-378b0f1eb21f-2-0.9144136326653524.jpeg",
         "Raw":  {
@@ -4556,10 +4556,10 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  2,
-        "Pasta_Fotos":  "imagens/45 - Cuia Porongo",
+        "Pasta_Fotos":  "imagens/45_cuia_porongo",
         "Fotos_Locais":  [
-                             "imagens/45 - Cuia Porongo/foto_01.jpg",
-                             "imagens/45 - Cuia Porongo/foto_02.jpg"
+                             "imagens/45_cuia_porongo/foto_01.jpg",
+                             "imagens/45_cuia_porongo/foto_02.jpg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/5f8825f4-bf4a-48e4-9e29-4a236889b137-1-0.9186853879728815.jpg",
         "Raw":  {
@@ -4654,11 +4654,11 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  3,
-        "Pasta_Fotos":  "imagens/46 - Canivete",
+        "Pasta_Fotos":  "imagens/46_canivete",
         "Fotos_Locais":  [
-                             "imagens/46 - Canivete/foto_01.jpeg",
-                             "imagens/46 - Canivete/foto_02.jpg",
-                             "imagens/46 - Canivete/foto_03.jpg"
+                             "imagens/46_canivete/foto_01.jpeg",
+                             "imagens/46_canivete/foto_02.jpg",
+                             "imagens/46_canivete/foto_03.jpg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/3477c041-5ee0-45a3-bea1-f2bb5162f564-0-0.30953504691384415.jpeg",
         "Raw":  {
@@ -4763,9 +4763,9 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  1,
-        "Pasta_Fotos":  "imagens/47 - Bomba de chimarrão",
+        "Pasta_Fotos":  "imagens/47_bomba_de_chimarrao",
         "Fotos_Locais":  [
-                             "imagens/47 - Bomba de chimarrão/foto_01.jpg"
+                             "imagens/47_bomba_de_chimarrao/foto_01.jpg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/product/d067d5fa-8c5a-47cf-8ad9-86649aad37f5/product-0749a25f-c82e-49b7-af55-421cc7c0d736-1782393864303-sxmxutzjg.jpg",
         "Raw":  {
@@ -4856,10 +4856,10 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  2,
-        "Pasta_Fotos":  "imagens/48 - Faca curva 6_ com caixa",
+        "Pasta_Fotos":  "imagens/48_faca_curva_6_com_caixa",
         "Fotos_Locais":  [
-                             "imagens/48 - Faca curva 6_ com caixa/foto_01.jpg",
-                             "imagens/48 - Faca curva 6_ com caixa/foto_02.jpg"
+                             "imagens/48_faca_curva_6_com_caixa/foto_01.jpg",
+                             "imagens/48_faca_curva_6_com_caixa/foto_02.jpg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/e2363ee6-a583-48a8-98d5-7a0fe089511b-0-0.3022544741046981.jpg",
         "Raw":  {
@@ -4954,10 +4954,10 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  2,
-        "Pasta_Fotos":  "imagens/49 - Pazinha de raiz",
+        "Pasta_Fotos":  "imagens/49_pazinha_de_raiz",
         "Fotos_Locais":  [
-                             "imagens/49 - Pazinha de raiz/foto_01.jpg",
-                             "imagens/49 - Pazinha de raiz/foto_02.jpg"
+                             "imagens/49_pazinha_de_raiz/foto_01.jpg",
+                             "imagens/49_pazinha_de_raiz/foto_02.jpg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/product/d067d5fa-8c5a-47cf-8ad9-86649aad37f5/product-0ba6547f-ded6-49c9-b1ad-d9da90816491-1782393831090-07zc8cd6m.jpg",
         "Raw":  {
@@ -5058,11 +5058,11 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  3,
-        "Pasta_Fotos":  "imagens/50 - Pano de Batida",
+        "Pasta_Fotos":  "imagens/50_pano_de_batida",
         "Fotos_Locais":  [
-                             "imagens/50 - Pano de Batida/foto_01.webp",
-                             "imagens/50 - Pano de Batida/foto_02.jpeg",
-                             "imagens/50 - Pano de Batida/foto_03.jpg"
+                             "imagens/50_pano_de_batida/foto_01.webp",
+                             "imagens/50_pano_de_batida/foto_02.jpeg",
+                             "imagens/50_pano_de_batida/foto_03.jpg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/bcfe21e7-7bad-416f-9251-ecdb58c8ac02-0-0.7968511038747081.webp",
         "Raw":  {
@@ -5167,9 +5167,9 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  1,
-        "Pasta_Fotos":  "imagens/51 - Chaveiro Milho",
+        "Pasta_Fotos":  "imagens/51_chaveiro_milho",
         "Fotos_Locais":  [
-                             "imagens/51 - Chaveiro Milho/foto_01.jpeg"
+                             "imagens/51_chaveiro_milho/foto_01.jpeg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/b808d326-6178-40dc-ba2c-adfd84ed6841-0-0.537293031276627.jpeg",
         "Raw":  {
@@ -5254,9 +5254,9 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  1,
-        "Pasta_Fotos":  "imagens/52 - Chaveiro culturas",
+        "Pasta_Fotos":  "imagens/52_chaveiro_culturas",
         "Fotos_Locais":  [
-                             "imagens/52 - Chaveiro culturas/foto_01.jpeg"
+                             "imagens/52_chaveiro_culturas/foto_01.jpeg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/76f31aca-42b4-4d1a-95fa-29cafbd2d41a-0-0.6648648293551975.jpeg",
         "Raw":  {
@@ -5341,11 +5341,11 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  3,
-        "Pasta_Fotos":  "imagens/53 - Kit Social",
+        "Pasta_Fotos":  "imagens/53_kit_social",
         "Fotos_Locais":  [
-                             "imagens/53 - Kit Social/foto_01.jpg",
-                             "imagens/53 - Kit Social/foto_02.jpg",
-                             "imagens/53 - Kit Social/foto_03.jpg"
+                             "imagens/53_kit_social/foto_01.jpg",
+                             "imagens/53_kit_social/foto_02.jpg",
+                             "imagens/53_kit_social/foto_03.jpg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/product/d067d5fa-8c5a-47cf-8ad9-86649aad37f5/product-1ec181b5-6338-4d93-91e1-bde02b47dd16-1782394380334-546meciee.jpg",
         "Raw":  {
@@ -5456,9 +5456,9 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  1,
-        "Pasta_Fotos":  "imagens/54 - Chaveiro Soja e Moeda",
+        "Pasta_Fotos":  "imagens/54_chaveiro_soja_e_moeda",
         "Fotos_Locais":  [
-                             "imagens/54 - Chaveiro Soja e Moeda/foto_01.jpeg"
+                             "imagens/54_chaveiro_soja_e_moeda/foto_01.jpeg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/640bd3d3-b798-45fb-a430-7289ad5c5812-0-0.2924942546117746.jpeg",
         "Raw":  {
@@ -5543,9 +5543,9 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  1,
-        "Pasta_Fotos":  "imagens/55 - Chaveiro Couro Sintético",
+        "Pasta_Fotos":  "imagens/55_chaveiro_couro_sintetico",
         "Fotos_Locais":  [
-                             "imagens/55 - Chaveiro Couro Sintético/foto_01.jpeg"
+                             "imagens/55_chaveiro_couro_sintetico/foto_01.jpeg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/50d7b72b-e27f-4ad9-95ca-efb83df5989a-0-0.24994086902373225.jpeg",
         "Raw":  {
@@ -5630,9 +5630,9 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  1,
-        "Pasta_Fotos":  "imagens/56 - Petisqueira Pioneer",
+        "Pasta_Fotos":  "imagens/56_petisqueira_pioneer",
         "Fotos_Locais":  [
-                             "imagens/56 - Petisqueira Pioneer/foto_01.jpg"
+                             "imagens/56_petisqueira_pioneer/foto_01.jpg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/36f5c300-a4f8-4adc-94ec-ba2e7e679a82-0-0.5347457099484529.jpg",
         "Raw":  {
@@ -5717,9 +5717,9 @@
         "Condicao":  "novo",
         "Marca":  null,
         "Qtd_Fotos":  1,
-        "Pasta_Fotos":  "imagens/57 - Petisqueira Pioneer",
+        "Pasta_Fotos":  "imagens/57_petisqueira_pioneer",
         "Fotos_Locais":  [
-                             "imagens/57 - Petisqueira Pioneer/foto_01.jpg"
+                             "imagens/57_petisqueira_pioneer/foto_01.jpg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/38d9e7d9-6386-42c6-99ec-21753409d7ab-0-0.5132028434798063.jpg",
         "Raw":  {
@@ -5804,9 +5804,9 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  1,
-        "Pasta_Fotos":  "imagens/58 - Petisqueira Pioneer",
+        "Pasta_Fotos":  "imagens/58_petisqueira_pioneer",
         "Fotos_Locais":  [
-                             "imagens/58 - Petisqueira Pioneer/foto_01.jpeg"
+                             "imagens/58_petisqueira_pioneer/foto_01.jpeg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/4d8b1741-37dd-4bfe-8f28-7956e761cad9-0-0.2657317962778172.jpeg",
         "Raw":  {
@@ -5891,11 +5891,11 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  3,
-        "Pasta_Fotos":  "imagens/59 - Pelego de Ovelha",
+        "Pasta_Fotos":  "imagens/59_pelego_de_ovelha",
         "Fotos_Locais":  [
-                             "imagens/59 - Pelego de Ovelha/foto_01.jpg",
-                             "imagens/59 - Pelego de Ovelha/foto_02.jpeg",
-                             "imagens/59 - Pelego de Ovelha/foto_03.jpeg"
+                             "imagens/59_pelego_de_ovelha/foto_01.jpg",
+                             "imagens/59_pelego_de_ovelha/foto_02.jpeg",
+                             "imagens/59_pelego_de_ovelha/foto_03.jpeg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/9d1895ea-8ae2-424d-83ba-1c409a2b4020-0-0.41612488980873097.jpg",
         "Raw":  {
@@ -6000,10 +6000,10 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  2,
-        "Pasta_Fotos":  "imagens/60 - Relógio Termo Higrômetro",
+        "Pasta_Fotos":  "imagens/60_relogio_termo_higrometro",
         "Fotos_Locais":  [
-                             "imagens/60 - Relógio Termo Higrômetro/foto_01.jpg",
-                             "imagens/60 - Relógio Termo Higrômetro/foto_02.jpg"
+                             "imagens/60_relogio_termo_higrometro/foto_01.jpg",
+                             "imagens/60_relogio_termo_higrometro/foto_02.jpg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/product/d067d5fa-8c5a-47cf-8ad9-86649aad37f5/product-0151bfc0-85a2-438d-a4ac-93dd4f2742d4-1782148592494-cq9fdd6x7.jpg",
         "Raw":  {
@@ -6104,9 +6104,9 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  1,
-        "Pasta_Fotos":  "imagens/61 - Chaveiro inox",
+        "Pasta_Fotos":  "imagens/61_chaveiro_inox",
         "Fotos_Locais":  [
-                             "imagens/61 - Chaveiro inox/foto_01.jpeg"
+                             "imagens/61_chaveiro_inox/foto_01.jpeg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/80ac5ab8-c726-4cbc-b1d2-38170c56d878-0-0.8807098197099427.jpeg",
         "Raw":  {
@@ -6191,9 +6191,9 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  1,
-        "Pasta_Fotos":  "imagens/62 - Chaveiro Berrante",
+        "Pasta_Fotos":  "imagens/62_chaveiro_berrante",
         "Fotos_Locais":  [
-                             "imagens/62 - Chaveiro Berrante/foto_01.jpg"
+                             "imagens/62_chaveiro_berrante/foto_01.jpg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/838266bf-121c-40dd-b3a9-6db507cadd81-0-0.7905831864633113.jpg",
         "Raw":  {
@@ -6278,9 +6278,9 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  1,
-        "Pasta_Fotos":  "imagens/63 - Chaveiro Barqueiros",
+        "Pasta_Fotos":  "imagens/63_chaveiro_barqueiros",
         "Fotos_Locais":  [
-                             "imagens/63 - Chaveiro Barqueiros/foto_01.jpeg"
+                             "imagens/63_chaveiro_barqueiros/foto_01.jpeg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/84983f9b-0935-4ce4-a9e9-743c908ae9d3-0-0.715899237256676.jpeg",
         "Raw":  {
@@ -6365,9 +6365,9 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  1,
-        "Pasta_Fotos":  "imagens/64 - Chaveiro Barqueiro",
+        "Pasta_Fotos":  "imagens/64_chaveiro_barqueiro",
         "Fotos_Locais":  [
-                             "imagens/64 - Chaveiro Barqueiro/foto_01.jpg"
+                             "imagens/64_chaveiro_barqueiro/foto_01.jpg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/f704bf13-8c30-49a6-a796-4f9ffce83867-0-0.49972154176571093.jpg",
         "Raw":  {
@@ -6452,10 +6452,10 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  2,
-        "Pasta_Fotos":  "imagens/65 - Carteira de Couro",
+        "Pasta_Fotos":  "imagens/65_carteira_de_couro",
         "Fotos_Locais":  [
-                             "imagens/65 - Carteira de Couro/foto_01.png",
-                             "imagens/65 - Carteira de Couro/foto_02.png"
+                             "imagens/65_carteira_de_couro/foto_01.png",
+                             "imagens/65_carteira_de_couro/foto_02.png"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/8f796888-c959-4a0b-94c5-5a0c4bdbfa36-1-0.5544135035243297.png",
         "Raw":  {
@@ -6550,10 +6550,10 @@
         "Condicao":  "novo",
         "Marca":  null,
         "Qtd_Fotos":  2,
-        "Pasta_Fotos":  "imagens/66 - Chaveiro Inox foto",
+        "Pasta_Fotos":  "imagens/66_chaveiro_inox_foto",
         "Fotos_Locais":  [
-                             "imagens/66 - Chaveiro Inox foto/foto_01.jpg",
-                             "imagens/66 - Chaveiro Inox foto/foto_02.jpg"
+                             "imagens/66_chaveiro_inox_foto/foto_01.jpg",
+                             "imagens/66_chaveiro_inox_foto/foto_02.jpg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/deea40eb-d73a-4607-b6e7-2cc7060f7d4d-0-0.5999301811976302.jpg",
         "Raw":  {
@@ -6648,10 +6648,10 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  2,
-        "Pasta_Fotos":  "imagens/67 - Caderno Moleskine",
+        "Pasta_Fotos":  "imagens/67_caderno_moleskine",
         "Fotos_Locais":  [
-                             "imagens/67 - Caderno Moleskine/foto_01.jpeg",
-                             "imagens/67 - Caderno Moleskine/foto_02.jpeg"
+                             "imagens/67_caderno_moleskine/foto_01.jpeg",
+                             "imagens/67_caderno_moleskine/foto_02.jpeg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/996f464d-182c-4c49-a0d5-5203ca913a8e-0-0.37585548408626335.jpeg",
         "Raw":  {
@@ -6746,10 +6746,10 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  2,
-        "Pasta_Fotos":  "imagens/68 - Caderno comercial",
+        "Pasta_Fotos":  "imagens/68_caderno_comercial",
         "Fotos_Locais":  [
-                             "imagens/68 - Caderno comercial/foto_01.png",
-                             "imagens/68 - Caderno comercial/foto_02.jpg"
+                             "imagens/68_caderno_comercial/foto_01.png",
+                             "imagens/68_caderno_comercial/foto_02.jpg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/51f00713-95d5-416f-96ec-bc4173898592-0-0.6187383690013906.png",
         "Raw":  {
@@ -6844,10 +6844,10 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  2,
-        "Pasta_Fotos":  "imagens/69 - Kit xícaras de Café",
+        "Pasta_Fotos":  "imagens/69_kit_xicaras_de_cafe",
         "Fotos_Locais":  [
-                             "imagens/69 - Kit xícaras de Café/foto_01.jpg",
-                             "imagens/69 - Kit xícaras de Café/foto_02.jpeg"
+                             "imagens/69_kit_xicaras_de_cafe/foto_01.jpg",
+                             "imagens/69_kit_xicaras_de_cafe/foto_02.jpeg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/6d9ded0d-f533-4155-8992-c222d650d69a-1-0.11776642097668788.jpg",
         "Raw":  {
@@ -6942,10 +6942,10 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  2,
-        "Pasta_Fotos":  "imagens/70 - Kit social",
+        "Pasta_Fotos":  "imagens/70_kit_social",
         "Fotos_Locais":  [
-                             "imagens/70 - Kit social/foto_01.jpg",
-                             "imagens/70 - Kit social/foto_02.jpg"
+                             "imagens/70_kit_social/foto_01.jpg",
+                             "imagens/70_kit_social/foto_02.jpg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/8d861105-ab10-4c2f-9bb9-27589931a3ca-0-0.8120974064239661.jpg",
         "Raw":  {
@@ -7040,9 +7040,9 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  1,
-        "Pasta_Fotos":  "imagens/71 - Chaveiro Trator",
+        "Pasta_Fotos":  "imagens/71_chaveiro_trator",
         "Fotos_Locais":  [
-                             "imagens/71 - Chaveiro Trator/foto_01.jpg"
+                             "imagens/71_chaveiro_trator/foto_01.jpg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/product/d067d5fa-8c5a-47cf-8ad9-86649aad37f5/product-015e5667-6c56-47d3-9764-f63dcdf5df0c-1782393694066-zch5s8qff.jpg",
         "Raw":  {
@@ -7133,11 +7133,11 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  3,
-        "Pasta_Fotos":  "imagens/72 - Kit Social",
+        "Pasta_Fotos":  "imagens/72_kit_social",
         "Fotos_Locais":  [
-                             "imagens/72 - Kit Social/foto_01.jpeg",
-                             "imagens/72 - Kit Social/foto_02.jpeg",
-                             "imagens/72 - Kit Social/foto_03.jpeg"
+                             "imagens/72_kit_social/foto_01.jpeg",
+                             "imagens/72_kit_social/foto_02.jpeg",
+                             "imagens/72_kit_social/foto_03.jpeg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/products/b4201f9b-09d5-4727-9041-584fd85f4377-0-0.01188649668018138.jpeg",
         "Raw":  {
@@ -7248,9 +7248,9 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  1,
-        "Pasta_Fotos":  "imagens/73 - Canivete mini",
+        "Pasta_Fotos":  "imagens/73_canivete_mini",
         "Fotos_Locais":  [
-                             "imagens/73 - Canivete mini/foto_01.jpg"
+                             "imagens/73_canivete_mini/foto_01.jpg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/product/d067d5fa-8c5a-47cf-8ad9-86649aad37f5/product-e9e70913-3b3c-4502-934f-02f9bbcacd05-1782148806841-rds6z3znq.jpg",
         "Raw":  {
@@ -7341,12 +7341,12 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  4,
-        "Pasta_Fotos":  "imagens/74 - Kit Vinho",
+        "Pasta_Fotos":  "imagens/74_kit_vinho",
         "Fotos_Locais":  [
-                             "imagens/74 - Kit Vinho/foto_01.jpg",
-                             "imagens/74 - Kit Vinho/foto_02.jpg",
-                             "imagens/74 - Kit Vinho/foto_03.jpg",
-                             "imagens/74 - Kit Vinho/foto_04.jpg"
+                             "imagens/74_kit_vinho/foto_01.jpg",
+                             "imagens/74_kit_vinho/foto_02.jpg",
+                             "imagens/74_kit_vinho/foto_03.jpg",
+                             "imagens/74_kit_vinho/foto_04.jpg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/product/d067d5fa-8c5a-47cf-8ad9-86649aad37f5/product-57379184-8785-42a1-a1e0-be6ae00a8caf-1782394331927-94edf3t10.jpg",
         "Raw":  {
@@ -7467,9 +7467,9 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  1,
-        "Pasta_Fotos":  "imagens/75 - Canivete com bainha",
+        "Pasta_Fotos":  "imagens/75_canivete_com_bainha",
         "Fotos_Locais":  [
-                             "imagens/75 - Canivete com bainha/foto_01.jpg"
+                             "imagens/75_canivete_com_bainha/foto_01.jpg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/product/d067d5fa-8c5a-47cf-8ad9-86649aad37f5/product-d5c5bc04-b2f3-4dd7-9cbf-bc3927b2b2a0-1782148699990-iws4ku9nq.jpg",
         "Raw":  {
@@ -7560,9 +7560,9 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  1,
-        "Pasta_Fotos":  "imagens/76 - Canivete Mini",
+        "Pasta_Fotos":  "imagens/76_canivete_mini",
         "Fotos_Locais":  [
-                             "imagens/76 - Canivete Mini/foto_01.jpg"
+                             "imagens/76_canivete_mini/foto_01.jpg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/product/d067d5fa-8c5a-47cf-8ad9-86649aad37f5/product-c4fa3503-73dd-4849-9c78-c5958ea965f9-1782148764982-qd9rr02wd.jpg",
         "Raw":  {
@@ -7653,11 +7653,11 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  3,
-        "Pasta_Fotos":  "imagens/77 - Faca 6_",
+        "Pasta_Fotos":  "imagens/77_faca_6",
         "Fotos_Locais":  [
-                             "imagens/77 - Faca 6_/foto_01.jpg",
-                             "imagens/77 - Faca 6_/foto_02.jpg",
-                             "imagens/77 - Faca 6_/foto_03.jpg"
+                             "imagens/77_faca_6/foto_01.jpg",
+                             "imagens/77_faca_6/foto_02.jpg",
+                             "imagens/77_faca_6/foto_03.jpg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/product/d067d5fa-8c5a-47cf-8ad9-86649aad37f5/product-d72fa088-c6f6-43fe-a43c-7116575a3a4a-1782393988294-nsy8ccgo0.jpg",
         "Raw":  {
@@ -7768,11 +7768,11 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  3,
-        "Pasta_Fotos":  "imagens/78 - Faca 6_",
+        "Pasta_Fotos":  "imagens/78_faca_6",
         "Fotos_Locais":  [
-                             "imagens/78 - Faca 6_/foto_01.jpg",
-                             "imagens/78 - Faca 6_/foto_02.jpg",
-                             "imagens/78 - Faca 6_/foto_03.jpg"
+                             "imagens/78_faca_6/foto_01.jpg",
+                             "imagens/78_faca_6/foto_02.jpg",
+                             "imagens/78_faca_6/foto_03.jpg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/product/d067d5fa-8c5a-47cf-8ad9-86649aad37f5/product-b58c6b0f-fdbe-477a-a1e9-36befa011382-1782394199305-exl7mua6x.jpg",
         "Raw":  {
@@ -7883,10 +7883,10 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  2,
-        "Pasta_Fotos":  "imagens/79 - Caixa Térmica Coleman 45,4L",
+        "Pasta_Fotos":  "imagens/79_caixa_termica_coleman_45_4l",
         "Fotos_Locais":  [
-                             "imagens/79 - Caixa Térmica Coleman 45,4L/foto_01.jpg",
-                             "imagens/79 - Caixa Térmica Coleman 45,4L/foto_02.jpg"
+                             "imagens/79_caixa_termica_coleman_45_4l/foto_01.jpg",
+                             "imagens/79_caixa_termica_coleman_45_4l/foto_02.jpg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/product/d067d5fa-8c5a-47cf-8ad9-86649aad37f5/product-8179d600-60b6-45bf-90b4-4da4e0bfb0fa-1782394581552-0nf4km20s.jpg",
         "Raw":  {
@@ -7987,10 +7987,10 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  2,
-        "Pasta_Fotos":  "imagens/80 - Caneca Barril",
+        "Pasta_Fotos":  "imagens/80_caneca_barril",
         "Fotos_Locais":  [
-                             "imagens/80 - Caneca Barril/foto_01.jpg",
-                             "imagens/80 - Caneca Barril/foto_02.jpg"
+                             "imagens/80_caneca_barril/foto_01.jpg",
+                             "imagens/80_caneca_barril/foto_02.jpg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/product/d067d5fa-8c5a-47cf-8ad9-86649aad37f5/product-e72a7ea1-60a9-40ff-bfbf-ca6a6b451c6f-1782393929798-8wih8kl21.jpg",
         "Raw":  {
@@ -8091,10 +8091,10 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  2,
-        "Pasta_Fotos":  "imagens/81 - Canivete",
+        "Pasta_Fotos":  "imagens/81_canivete",
         "Fotos_Locais":  [
-                             "imagens/81 - Canivete/foto_01.jpg",
-                             "imagens/81 - Canivete/foto_02.jpg"
+                             "imagens/81_canivete/foto_01.jpg",
+                             "imagens/81_canivete/foto_02.jpg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/product/d067d5fa-8c5a-47cf-8ad9-86649aad37f5/product-1caf3508-6987-4e59-aa6a-c8e9693c7b4b-1782393652739-qfhhud8qr.jpg",
         "Raw":  {
@@ -8196,10 +8196,10 @@
         "Condicao":  "novo",
         "Marca":  "Marruá Empório",
         "Qtd_Fotos":  2,
-        "Pasta_Fotos":  "imagens/82 - Caixa Térmica Coleman 26,5L",
+        "Pasta_Fotos":  "imagens/82_caixa_termica_coleman_26_5l",
         "Fotos_Locais":  [
-                             "imagens/82 - Caixa Térmica Coleman 26,5L/foto_01.jpg",
-                             "imagens/82 - Caixa Térmica Coleman 26,5L/foto_02.jpg"
+                             "imagens/82_caixa_termica_coleman_26_5l/foto_01.jpg",
+                             "imagens/82_caixa_termica_coleman_26_5l/foto_02.jpg"
                          ],
         "URL_Foto_Destaque":  "https://ikvwygqmlqhsyqmpgaoz.supabase.co/storage/v1/object/public/public/product/d067d5fa-8c5a-47cf-8ad9-86649aad37f5/product-8001fc72-72c7-48dc-bc8f-e0be79673af8-1782394623092-lv4x9575n.jpg",
         "Raw":  {

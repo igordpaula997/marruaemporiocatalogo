@@ -819,6 +819,7 @@
 
       grid.innerHTML = list.map(p => {
         const thumb = (p.Fotos_Locais && p.Fotos_Locais.length > 0) ? p.Fotos_Locais[0] : (p.URL_Foto_Destaque || '');
+        const fallbackUrl = p.URL_Foto_Destaque || 'https://via.placeholder.com/300x260?text=Sem+Foto';
         const photoCount = (p.Fotos_Locais ? p.Fotos_Locais.length : 0);
         const hasPromo = p.Preco_Promocional && p.Preco_Promocional < p.Preco;
         const mainPrice = hasPromo ? p.Preco_Promocional : p.Preco;
@@ -827,7 +828,7 @@
           <div class="card" onclick="openModal(${p.Numero})">
             <div class="card-thumb">
               <span class="num-badge">#${p.Numero}</span>
-              <img src="${thumb}" alt="${p.Titulo}" loading="lazy" onerror="this.src='https://via.placeholder.com/300x260?text=Sem+Foto'">
+              <img src="${thumb}" alt="${p.Titulo}" loading="lazy" onerror="if (this.src !== '${fallbackUrl}') { this.src = '${fallbackUrl}'; }">
               <span class="photo-badge">📷 ${photoCount}</span>
             </div>
             <div class="card-body">
@@ -889,11 +890,16 @@
       document.getElementById('nav-next').style.display = photos.length > 1 ? 'flex' : 'none';
 
       document.getElementById('modal-main-img').src = photos[currentImageIndex];
+      document.getElementById('modal-main-img').onerror = function() {
+        if (currentProduct && currentProduct.URL_Foto_Destaque && this.src !== currentProduct.URL_Foto_Destaque) {
+          this.src = currentProduct.URL_Foto_Destaque;
+        }
+      };
 
       const thumbsContainer = document.getElementById('modal-thumbs');
       thumbsContainer.innerHTML = photos.map((src, idx) => `
         <div class="thumb-item ${idx === currentImageIndex ? 'active' : ''}" onclick="selectModalImage(${idx})">
-          <img src="${src}" alt="Foto ${idx+1}">
+          <img src="${src}" alt="Foto ${idx+1}" onerror="if (currentProduct && currentProduct.URL_Foto_Destaque && this.src !== currentProduct.URL_Foto_Destaque) { this.src = currentProduct.URL_Foto_Destaque; }">
         </div>
       `).join('');
     }
