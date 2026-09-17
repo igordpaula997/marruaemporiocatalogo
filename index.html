@@ -765,8 +765,15 @@
     </div>
   </div>
 
+  <!-- BOTAO MINIMALISTA VOLTAR AO TOPO -->
+  <button class="back-to-top" id="back-to-top-btn" title="Voltar ao topo" aria-label="Voltar ao topo">
+    <svg viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round">
+      <polyline points="18 15 12 9 6 15"></polyline>
+    </svg>
+  </button>
+
   <!-- Carrega os dados offline de produtos.js -->
-  <script src="produtos.js"></script>
+  <script charset="utf-8" src="produtos.js"></script>
 
   <script>
     let products = [];
@@ -991,20 +998,22 @@
 
     // Botao Voltar ao Topo
     const backToTopBtn = document.getElementById('back-to-top-btn');
-    window.addEventListener('scroll', () => {
-      if (window.scrollY > 300) {
-        backToTopBtn.classList.add('visible');
-      } else {
-        backToTopBtn.classList.remove('visible');
-      }
-    });
-
-    backToTopBtn.addEventListener('click', () => {
-      window.scrollTo({
-        top: 0,
-        behavior: 'smooth'
+    if (backToTopBtn) {
+      window.addEventListener('scroll', () => {
+        if (window.scrollY > 300) {
+          backToTopBtn.classList.add('visible');
+        } else {
+          backToTopBtn.classList.remove('visible');
+        }
       });
-    });
+
+      backToTopBtn.addEventListener('click', () => {
+        window.scrollTo({
+          top: 0,
+          behavior: 'smooth'
+        });
+      });
+    }
 
     // Iniciar dados
     if (window.CATALOGO_PRODUTOS) {
@@ -1019,12 +1028,5 @@
         });
     }
   </script>
-
-  <!-- BOTAO MINIMALISTA VOLTAR AO TOPO -->
-  <button class="back-to-top" id="back-to-top-btn" title="Voltar ao topo" aria-label="Voltar ao topo">
-    <svg viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round">
-      <polyline points="18 15 12 9 6 15"></polyline>
-    </svg>
-  </button>
 </body>
 </html>

@@ -1,4 +1,4 @@
-﻿window.CATALOGO_PRODUTOS = [
+window.CATALOGO_PRODUTOS = [
     {
         "Numero":  1,
         "ID":  "96945674-aace-477d-9479-bac407b4d2b3",
