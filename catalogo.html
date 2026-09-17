@@ -68,10 +68,8 @@
       background: linear-gradient(180deg, rgba(16, 33, 21, 0.98) 0%, rgba(10, 20, 13, 0.98) 100%);
       border-bottom: 1px solid var(--moss-border);
       padding: 26px 20px 18px;
-      position: sticky;
-      top: 0;
-      z-index: 50;
-      backdrop-filter: blur(14px);
+      position: relative;
+      z-index: 10;
       box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
     }
 
@@ -633,6 +631,60 @@
       color: var(--text-muted);
       grid-column: 1 / -1;
     }
+
+    /* BOTAO MINIMALISTA VOLTAR AO TOPO */
+    .back-to-top {
+      position: fixed;
+      bottom: 26px;
+      right: 26px;
+      width: 46px;
+      height: 46px;
+      border-radius: 50%;
+      background: var(--moss-card);
+      border: 1.5px solid var(--moss-border-light);
+      color: var(--light-green);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      z-index: 90;
+      opacity: 0;
+      visibility: hidden;
+      transform: translateY(14px);
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.6), 0 0 12px var(--light-green-glow);
+    }
+
+    .back-to-top.visible {
+      opacity: 1;
+      visibility: visible;
+      transform: translateY(0);
+    }
+
+    .back-to-top:hover {
+      background: var(--light-green);
+      color: #07170b;
+      border-color: var(--light-green);
+      transform: translateY(-4px);
+      box-shadow: 0 12px 28px rgba(0, 0, 0, 0.7), 0 0 20px rgba(74, 222, 128, 0.45);
+    }
+
+    .back-to-top:active {
+      transform: translateY(-1px);
+    }
+
+    .back-to-top svg {
+      width: 20px;
+      height: 20px;
+      stroke-width: 2.5;
+      stroke: currentColor;
+      fill: none;
+      transition: transform 0.2s ease;
+    }
+
+    .back-to-top:hover svg {
+      transform: translateY(-2px);
+    }
   </style>
 </head>
 <body>
@@ -937,6 +989,23 @@
       if (e.key === 'ArrowRight') document.getElementById('nav-next').click();
     });
 
+    // Botao Voltar ao Topo
+    const backToTopBtn = document.getElementById('back-to-top-btn');
+    window.addEventListener('scroll', () => {
+      if (window.scrollY > 300) {
+        backToTopBtn.classList.add('visible');
+      } else {
+        backToTopBtn.classList.remove('visible');
+      }
+    });
+
+    backToTopBtn.addEventListener('click', () => {
+      window.scrollTo({
+        top: 0,
+        behavior: 'smooth'
+      });
+    });
+
     // Iniciar dados
     if (window.CATALOGO_PRODUTOS) {
       initCatalog(window.CATALOGO_PRODUTOS);
@@ -950,5 +1019,12 @@
         });
     }
   </script>
+
+  <!-- BOTAO MINIMALISTA VOLTAR AO TOPO -->
+  <button class="back-to-top" id="back-to-top-btn" title="Voltar ao topo" aria-label="Voltar ao topo">
+    <svg viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round">
+      <polyline points="18 15 12 9 6 15"></polyline>
+    </svg>
+  </button>
 </body>
 </html>
